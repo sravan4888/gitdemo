@@ -65,9 +65,7 @@ public class ContactsPageTest extends TestBase{
 	/*adding few more comments under sravan branch*/
 	/*--adding few more---*/
 	/*--adding few more---*/
-	/*--adding few more---*/
-	/*--adding few more---*/
-	/*--one more---*/
+
 	
 	@DataProvider
 	public Object[][] getTestData()
