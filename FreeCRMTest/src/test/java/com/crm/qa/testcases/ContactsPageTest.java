@@ -61,10 +61,7 @@ public class ContactsPageTest extends TestBase{
 		cp3.createContact(des, fn, ln);
 	}
 	
-	/*added extra comment*/
-	/*adding few more comments under sravan branch*/
-	/*--adding few more---*/
-	/*--adding few more---*/
+	
 
 	
 	@DataProvider
